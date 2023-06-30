@@ -10,14 +10,6 @@ A few Dart packages are used to ease cross-platform resource management:
 * [path\_provider](https://pub.dartlang.org/packages/path_provider) (BSD) - A Flutter plugin for finding commonly used locations on the filesystem. Supports iOS and Android.
 * [image](https://pub.dartlang.org/packages/image) (Apache 2.0) - A Dart library providing the ability to load, save and manipulate images in a variety of different file formats.
 
-### Author
-
-[David Rogers](https://www.doclrogers.com)
-
-### License
-
-See [LICENSE](LICENSE) file.
-
 ## Usage
 
 <p align="center">
@@ -64,4 +56,3 @@ See [LICENSE](LICENSE) file.
 * `flutter build apk` - To build and Android APK file.
 * `flutter build ios` - To build an iOS application bundle (Mac OS X only).
 * `flutter run` - To run on an attached device.
-# handwritten_digit_classifier
